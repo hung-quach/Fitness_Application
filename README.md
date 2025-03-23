@@ -1,3 +1,7 @@
+I'm inspired by your request to build a fitness app for CrossFit! This gives me an opportunity to create something that embodies the precision, simplicity, and functionality that defines great design.
+
+The CrossFit community values simplicity, functionality, and performance - principles that align perfectly with minimalist design philosophy. I envision a clean, intuitive interface that focuses on what matters most: tracking workouts, monitoring progress, and connecting with the CrossFit community.
+
 # Welcome to your Lovable project
 
 ## Project info
